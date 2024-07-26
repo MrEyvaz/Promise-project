@@ -36,7 +36,28 @@ body {
     margin-left: -4px;
 }
 
-.citytext {
+.degree {
     color: white;
     font-size: 20px;
+}
+
+.humidity {
+    color: white;
+    font-size: 20px;
+    margin-top: 11px;
+}
+
+.wind-speed {
+    color: white;
+    font-size: 20px;
+    margin-top: 11px;
+}
+
+.forecast-container {
+    display: flex;
+    margin-left: -50px;
+}
+
+.forecast {
+    margin-left: 50px;
 }
